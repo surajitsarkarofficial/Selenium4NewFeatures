@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Selenium New Features">
+    <test name="Selenium 4 Features">
+        <classes>
+            <class name="CaptureScreenshotTests"/>
+            <class name="OpenNewTabTests"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->
